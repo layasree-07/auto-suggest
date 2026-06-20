@@ -1,5 +1,5 @@
 h1{
-    color:red;
+    color: black;
     text-align:center;
 
 }
@@ -59,12 +59,37 @@ body{
 span{
     color:blue;
 }
-.par{
-    text-align: center;
+
+.main-content{
+    text-align:center;
 }
-.time{
-    text-align: right;
+.gear{
+    position:fixed;
+    top:100px;
+    left:10px; 
 }
-.lef{
-    text-align: left;
+.rem{
+    position:fixed;
+    top:100px;
+    right:10px;
+}
+p{
+    color:gray;
+}
+.searchbar{
+    border-radius:20px;
+    padding-right:15px;
+    padding-left:25px;
+    padding-top:10px;
+    padding-bottom:10px;
+
+    font-size:15px;
+    border:1px solid gray;
+    
+}
+.lens{
+    position:relative;
+    top:1px;
+    left:30px;
+    padding-left:30px;
 }
