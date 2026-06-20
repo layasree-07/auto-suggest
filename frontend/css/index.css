@@ -16,3 +16,33 @@ h1{
     padding: 10px;
     text-align:center;
 }
+.navbar{
+    border:3px;
+    border-color:black;
+    border-style:solid;
+    padding:30px;
+    background-color: mediumpurple;
+    text-align:center;
+
+}
+.navbar a{
+    color:black;
+    padding:10px;
+    text-decoration: none;
+}
+.navbar a:hover{
+    background-color: lightcyan;
+}
+body{
+    margin:0px;
+}
+.card{
+    border:2px solid black;
+    width:250px;
+    text-align:center;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.card img{
+    width:250px;
+}
